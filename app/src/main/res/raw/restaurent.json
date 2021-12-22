@@ -1,0 +1,134 @@
+[
+  {
+    "name":"Chicago's Pizza",
+    "address":"7225 W Harlem Ave.",
+    "delivery_charge":5,
+    "image":"https://www.fsrmagazine.com/sites/default/files/styles/story_image_720x430/public/2020-01/FirstWatch_0.jpg?itok=2uZNld3Z",
+
+    "Hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"11:00 AM - 2:00 PM"
+    },
+
+    "menu":[
+      {
+        "name":"Spaghetti",
+        "price": 10.00,
+        "url":"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F39ee03d747ff0e93c946bdaaf07320e7679f0287"
+      },
+      {
+        "name":"Pizza",
+        "price": 4.99,
+        "url":"https://kupinica.com/pizza/"
+      },
+      {
+        "name":"Chocolate Pizza",
+        "price": 8.49,
+        "url":"https://image.shutterstock.com/image-photo/tasty-sensation-pizza-chocolate-strawberry-260nw-1742591615.jpg"
+      },
+      {
+        "name":"Cheese Sticks",
+        "price": 11.99,
+        "url":"https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21.jpg"
+      },
+      {
+        "name":"Chicken Finger Sandwich",
+        "price": 8.99,
+        "url":"https://cutpcdnwimages.azureedge.net/images/products/90000/090355-600x600-A.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Chicago's Pizza",
+    "address":"7225 W Harlem Ave.",
+    "delivery_charge":5,
+    "image":"https://www.fsrmagazine.com/sites/default/files/styles/story_image_720x430/public/2020-01/FirstWatch_0.jpg?itok=2uZNld3Z",
+
+    "Hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"11:00 AM - 2:00 PM"
+    },
+
+    "menu":[
+      {
+        "name":"Spaghetti",
+        "price": 10.00,
+        "url":"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F39ee03d747ff0e93c946bdaaf07320e7679f0287"
+      },
+      {
+        "name":"Pizza",
+        "price": 4.99,
+        "url":"https://kupinica.com/pizza/"
+      },
+      {
+        "name":"Chocolate Pizza",
+        "price": 8.49,
+        "url":"https://image.shutterstock.com/image-photo/tasty-sensation-pizza-chocolate-strawberry-260nw-1742591615.jpg"
+      },
+      {
+        "name":"Cheese Sticks",
+        "price": 11.99,
+        "url":"https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21.jpg"
+      },
+      {
+        "name":"Chicken Finger Sandwich",
+        "price": 8.99,
+        "url":"https://cutpcdnwimages.azureedge.net/images/products/90000/090355-600x600-A.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Chicago's Pizza",
+    "address":"7225 W Harlem Ave.",
+    "delivery_charge":5,
+    "image":"https://www.fsrmagazine.com/sites/default/files/styles/story_image_720x430/public/2020-01/FirstWatch_0.jpg?itok=2uZNld3Z",
+
+    "Hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"11:00 AM - 2:00 PM"
+    },
+
+    "menu":[
+      {
+        "name":"Spaghetti",
+        "price": 10.00,
+        "url":"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F39ee03d747ff0e93c946bdaaf07320e7679f0287"
+      },
+      {
+        "name":"Pizza",
+        "price": 4.99,
+        "url":"https://kupinica.com/pizza/"
+      },
+      {
+        "name":"Chocolate Pizza",
+        "price": 8.49,
+        "url":"https://image.shutterstock.com/image-photo/tasty-sensation-pizza-chocolate-strawberry-260nw-1742591615.jpg"
+      },
+      {
+        "name":"Cheese Sticks",
+        "price": 11.99,
+        "url":"https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21.jpg"
+      },
+      {
+        "name":"Chicken Finger Sandwich",
+        "price": 8.99,
+        "url":"https://cutpcdnwimages.azureedge.net/images/products/90000/090355-600x600-A.jpg"
+      }
+    ]
+  }
+]
